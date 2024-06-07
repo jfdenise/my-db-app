@@ -1,3 +1,2 @@
-echo executing WildFly CLI script
+echo  XXX executing WildFly CLI script
 /system-property=foo:add(value=bar)
-/core-service=management/management-interface=http-interface:write-attribute(name=console-enabled,value=true)
