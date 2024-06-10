@@ -1,2 +1,2 @@
-echo  XXX executing WildFly CLI script
+echo  XXXX executing WildFly CLI script
 /system-property=foo:add(value=bar)
